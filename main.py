@@ -20,9 +20,9 @@ try:
 except:
     print(Fore.WHITE +'Loading tables: '+Fore.RED+'ERROR')
 
-# запуск бота Jarvis
+# запуск бота Jarvis https://t.me/ASU_BDMS_11_Jarvis_bot
 try:
-    bot = telebot.TeleBot('5620044286:AAEluWJLvr_8FMqLjuuRKFzej2RtvXQyYKA')
+    bot = telebot.TeleBot('API_KEY')
     bot_name = 'Jarvis'
     print(Fore.WHITE+'Launching the bot '+bot_name+' : '+Fore.GREEN+'ok\n')
 except:
