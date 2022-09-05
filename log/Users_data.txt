@@ -1,0 +1,168 @@
+---------------------
+*connected_users*
+---------------------
+Username: Gray_WH
+ID: 1071349364
+First name: Gray
+Last_name: None
+---------------------
+Username: xwinta
+ID: 762052974
+First name: xwinta
+Last_name: None
+---------------------
+Username: yustet
+ID: 942894690
+First name: Ибрагим
+Last_name: None
+---------------------
+Username: Revenantttttttt
+ID: 434210145
+First name: Григорий
+Last_name: None
+---------------------
+Username: BombGuy_of_life
+ID: 343354690
+First name: Рустам
+Last_name: Расулов
+---------------------
+Username: Dasadaaaa
+ID: 768005484
+First name: Dasada
+Last_name: None
+---------------------
+Username: beelonee
+ID: 1245038903
+First name: beelonee
+Last_name: None
+---------------------
+Username: Dasadaaaa
+ID: 768005484
+First name: Dasada
+Last_name: None
+---------------------
+Username: ferqo
+ID: 913680974
+First name: ferqo
+Last_name: None
+---------------------
+Username: Gray_WH
+ID: 1071349364
+First name: Gray
+Last_name: None
+---------------------
+Username: BelKsenya
+ID: 1907135837
+First name: Ксения
+Last_name: Ким
+---------------------
+Username: None
+ID: 5756750380
+First name: Evgen
+Last_name: None
+---------------------
+Username: the_upsetter
+ID: 300457789
+First name: sss ghoul 993
+Last_name: None
+---------------------
+Username: yustet
+ID: 942894690
+First name: Ибрагим
+Last_name: None
+---------------------
+Username: xwinta
+ID: 762052974
+First name: xwinta
+Last_name: None
+---------------------
+Username: Revenantttttttt
+ID: 434210145
+First name: Григорий
+Last_name: None
+---------------------
+Username: ferqo
+ID: 913680974
+First name: ferqo
+Last_name: None
+---------------------
+Username: Dasadaaaa
+ID: 768005484
+First name: Dasada
+Last_name: None
+---------------------
+Username: korga16
+ID: 534726977
+First name: Al
+Last_name: None
+---------------------
+Username: None
+ID: 1869221900
+First name: Ьлья
+Last_name: None
+---------------------
+Username: None
+ID: 944801079
+First name: Владимир
+Last_name: Вагин
+---------------------
+Username: BombGuy_of_life
+ID: 343354690
+First name: Рустам
+Last_name: Расулов
+---------------------
+Username: None
+ID: 1553532987
+First name: Denis
+Last_name: None
+---------------------
+Username: StuART_Original
+ID: 755511505
+First name: Виктор
+Last_name: Ш.
+---------------------
+Username: None
+ID: 1783956907
+First name: Orange
+Last_name: Pekoe
+---------------------
+Username: gfs_sS
+ID: 879015885
+First name: Ou
+Last_name: None
+---------------------
+Username: idcaboutmylife
+ID: 1246021373
+First name: tim
+Last_name: None
+---------------------
+Username: None
+ID: 851855010
+First name: Demid
+Last_name: None
+---------------------
+Username: Gray_WH
+ID: 1071349364
+First name: Gray
+Last_name: None
+---------------------
+Username: None
+ID: 1416446780
+First name: Никита
+Last_name: None
+---------------------
+Username: None
+ID: 1553532987
+First name: Denis
+Last_name: None
+---------------------
+Username: Iam_Denis
+ID: 1553532987
+First name: Denis
+Last_name: None
+---------------------
+Username: Iam_Denis
+ID: 1553532987
+First name: Denis
+Last_name: None
+---------------------
